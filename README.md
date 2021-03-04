@@ -7,6 +7,7 @@ Social media group, such as Messenger Group, is a rich ground for data mining to
 Load facebook data for a group chat (json files) into data frame, properly decode unicode Vietnamese, and explore the data (number of messages daily, monthly by senders, plot frequently used words and emoticons). 
 
 **Frequency of interaction**
+
 Number of messages, reactions by user, monthly average.
 ![](https://github.com/quynhneo/facebook-message-data-explorer/blob/master/daily.png)
 
