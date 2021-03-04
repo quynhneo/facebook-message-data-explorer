@@ -8,11 +8,15 @@ Load facebook data for a group chat (json files) into data frame, properly decod
 
 **Frequency of interaction**
 
+
 Number of messages, reactions by user, monthly average.
+
 ![](https://github.com/quynhneo/facebook-message-data-explorer/blob/master/daily.png)
+
 
 **Interaction Matrix**
 
 From the messages, you can extract an interaction matrix between users: Who is mostlikely to respond to whom in the group.
+
 ![](https://github.com/quynhneo/facebook-message-data-explorer/blob/master/interaction.png)
 
