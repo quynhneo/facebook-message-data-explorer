@@ -1,5 +1,6 @@
 # Facebook message data explorer (phân tích tin nhắn facebook tiếng Việt)
 **Why**
+
 Social media group, such as Messenger Group, is a rich ground for data mining to extract information about users interaction. Here I demonstrate some basic data exploration for a small group. For a large group with more data, a lot could be done, for example, finding cluster of users in more features space. 
 
 **The Jupyter Notebook**
